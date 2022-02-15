@@ -18,3 +18,5 @@ for i in range(1,5):
 
 print(f'Alumnos aprovados:\n {not_aprov}')
 print(f'\nAlumnos reprovados:\n {not_repro}')
+
+#Adicione um comentário aqui no código para utilizar os comandos no teclado.
