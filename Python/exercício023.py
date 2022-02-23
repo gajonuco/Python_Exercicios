@@ -7,5 +7,5 @@ while pop_a < pop_b:
   pop_b = pop_b + (pop_b * 0.015)
   cont += 1
 
-print(f'Levo {cont} anos para que a Popu A superasse à Popu. B')
+print(f'Levo {cont} anos para que a População A superasse à População B')
 print(f'Pop A: {round(pop_a)} e Pop B: {round(pop_a)}')
