@@ -1,3 +1,5 @@
+#Altere o programa anterior permitindo ao usuário informar as populações e as taxas de crescimento iniciais. Valide a entrada e permita repetir a operação.
+
 pop_a =  int(input('Digite a quant. da população "A": '))
 tax_a = float(input('Digite a sua taxa % de crescimento: '))
 pop_b = int(input('\nDigite a quant. da população "B": '))
